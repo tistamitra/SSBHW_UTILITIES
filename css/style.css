@@ -1,0 +1,10 @@
+.mh{
+	min-height:300px;
+}
+
+.item{
+	border: 1px solid;
+	height: 75px;
+	background: rgb(12, 12, 70);
+    color: white;
+}
